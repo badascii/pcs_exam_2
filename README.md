@@ -1,4 +1,6 @@
-pcs_exam_2
+Decryption App
+
 ==========
 
-Exam 2 for Portland Code School
+This is an app that takes an encoded command line message and decrypts it for
+the user.
